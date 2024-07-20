@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LizbethGomez
 - 👀 I’m interested in social and environmental drivers of asthma exacerbations, data viz and public health
-- 🌱 I’m currently a PhD Candidate in Environmental and Occupational Health at Drexel Dornsife School of Public Health
+- 🌱 I’m currently a Postdoctoral Fellow at Drexel University Dornsife School of Public Health
 - 📫 How to reach me: lg688@drexel.edu
 
 <!---
